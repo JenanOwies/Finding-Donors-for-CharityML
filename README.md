@@ -1,5 +1,5 @@
 # Finding-Donors-for-CharityML
-Project Overview
+##Project Overview
 
 This project applies supervised learning techniques to data collected from the U.S. census to help CharityML, a fictional charity organization, identify individuals most likely to donate. CharityML aims to provide financial support for those eager to learn machine learning. After sending nearly 32,000 letters, the organization found that all donations came from individuals earning more than $50,000 annually. To expand its donor base while reducing mailing costs, CharityML plans to target residents of California who are most likely to donate.
 
