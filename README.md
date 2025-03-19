@@ -49,6 +49,8 @@ The project is implemented using Python 3.x and requires the following libraries
 - Matplotlib & Seaborn: Data visualization.
 - Scikit-Learn: Machine learning models and evaluation metrics.
 
+The primary code is in the finding_donors.ipynb notebook, with supporting visualization scripts in visuals.py. 
+
 ## Conclusion
 
 This project successfully demonstrates how supervised learning can optimize donor outreach for a charity. By identifying key features that indicate donation likelihood, the model reduces mailing costs while increasing potential contributions. Future work could explore deep learning techniques or additional demographic insights to further enhance predictions.
